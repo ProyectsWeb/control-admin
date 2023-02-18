@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/control-admin/static/css/main.e4889cbf.css",
+    "main.js": "/control-admin/static/js/main.993d4d88.js",
+    "static/js/787.5d04c2d5.chunk.js": "/control-admin/static/js/787.5d04c2d5.chunk.js",
+    "static/media/miFoto.png": "/control-admin/static/media/miFoto.b8e7a7b6fccc508e0d43.png",
+    "static/media/AdminLTELogo.png": "/control-admin/static/media/AdminLTELogo.dc3925d09dcdabe76306.png",
+    "index.html": "/control-admin/index.html",
+    "main.e4889cbf.css.map": "/control-admin/static/css/main.e4889cbf.css.map",
+    "main.993d4d88.js.map": "/control-admin/static/js/main.993d4d88.js.map",
+    "787.5d04c2d5.chunk.js.map": "/control-admin/static/js/787.5d04c2d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4889cbf.css",
+    "static/js/main.993d4d88.js"
+  ]
+}
